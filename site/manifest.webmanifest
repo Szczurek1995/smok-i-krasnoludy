@@ -1,0 +1,13 @@
+{
+  "name": "Smok i krasnoludy",
+  "short_name": "Smok i krasnoludy",
+  "lang": "pl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "theme_color": "#101311",
+  "background_color": "#101311",
+  "icons": [
+    { "src": "favicon.webp", "sizes": "32x32", "type": "image/webp" }
+  ]
+}
